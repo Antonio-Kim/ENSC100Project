@@ -1,22 +1,23 @@
-Simon Fraser University ENSC 100 Project
+# Simon Fraser University ENSC 100 Project
 
-Fall 2017
+## Fall 2017
 
-Version 1.1.0
+### Version 1.1.0
 
-Group: Iota
+#### Group: Iota
 
-Professor: Michael Sjoerdsma
+#### Professor: Michael Sjoerdsma
 
-Teaching Assistance: Jordan David Lui
+#### Teaching Assistance: Jordan David Lui
 
-Team Members: Antonio Kim
-              Claire Jeanette Bareilles
-              Erika Lia Fernandez
-              Jehaan Jacob Joseph
-              Nathan Bays Zavaglia
-              Takunda Lester Mwinjilo
-              Owen Kin Sheuk Cheuk
+Team Members: 
+...Antonio Kim
+...Claire Jeanette Bareilles
+...Erika Lia Fernandez
+...Jehaan Jacob Joseph
+...Nathan Bays Zavaglia
+...Takunda Lester Mwinjilo
+...Owen Kin Sheuk Cheuk
 
 Description:
 
