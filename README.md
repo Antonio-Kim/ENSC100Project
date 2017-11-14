@@ -11,13 +11,14 @@
 #### Teaching Assistance: Jordan David Lui
 
 Team Members: 
-⋅⋅*Antonio Kim
-⋅⋅*Claire Jeanette Bareilles
-⋅⋅*Erika Lia Fernandez
-⋅⋅*Jehaan Jacob Joseph
-⋅⋅*Nathan Bays Zavaglia
-⋅⋅*Takunda Lester Mwinjilo
-⋅⋅*Owen Kin Sheuk Cheuk
+<ul>
+<li>Antonio Kim</li>
+<li>Claire Jeanette Bareilles</li>
+<li>Erika Lia Fernandez</li>
+<li>Jehaan Jacob Joseph</li>
+<li>Nathan Bays Zavaglia</li>
+<li>Takunda Lester Mwinjilo</li>
+<li>Owen Kin Sheuk Cheuk</li>
 
 Description:
 
