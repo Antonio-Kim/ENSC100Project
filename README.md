@@ -2,7 +2,7 @@
 
 ## Fall 2017
 
-### Version 1.1.3
+### Version 1.1.4
 
 #### Group: Iota
 
@@ -35,7 +35,10 @@ The following Repository consists of:
     <li> README.md </li> The summary is written in Markdown langauge
 </ul>
 
-####Version update Summary
+#### Version update Summary
+
+1.1.4 Correction on the visual output
+
 1.1.3 Major modification was made on the README.md, which were the visual modification
       of the list, as well adding the list of repo file. Version update is now shown on the
       repo summary
