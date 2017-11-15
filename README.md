@@ -50,6 +50,7 @@ The following Repository consists of:
 ---
 
 The Repository is maintained by: Antonio Kim
+
 Please see [Course Description](https://www.sfu.ca/students/calendar/2018/spring/courses/ensc/100.html) For more information.
 
 Last updated: November 15th, 2017
