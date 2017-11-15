@@ -2,7 +2,7 @@
 
 ## Fall 2017
 
-### Version 1.1.4
+### Version 1.1.5
 
 #### Group: Iota
 
@@ -30,12 +30,14 @@ The following Repository consists of:
     <li> Arduino-Temperature-Control-Library-master.zip</li> The following zip file is from
          https://create.arduino.cc/projecthub/TheGadgetBoy/ds18b20-digital-temperature-sensor-and-arduino-9cc806
     <li> OneWire.zip </li> Also obtained from website reference above
-    <li> Temperature.ino </li> Arduino file which displays the LED when two temperature sensors are 40 degrees celsius
-         or above.
+    <li> Temperature.ino </li> Arduino file which displays the LED Green when two temperature sensors are 40 degrees celsius
+         or above. Else, the LED displays Red.
     <li> README.md </li> The summary is written in Markdown langauge
 </ul>
 
-#### Version update Summary
+### Version update Summary
+
+1.1.5 Added link for course description
 
 1.1.4 Correction on the visual output
 
@@ -45,5 +47,9 @@ The following Repository consists of:
 
 1.1.0 All the Files and small update on README.md was added to the repo
 
+---
 
 The Repository is maintained by: Antonio Kim
+Please see [Course Description](https://www.sfu.ca/students/calendar/2018/spring/courses/ensc/100.html) For more information.
+
+Last updated: November 15th, 2017
