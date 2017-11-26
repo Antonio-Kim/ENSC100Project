@@ -2,7 +2,7 @@
 
 ## Fall 2017
 
-### Version 1.2.1
+### Version 1.2.2
 
 #### Group: Iota
 
@@ -37,6 +37,8 @@ The following Repository consists of:
 
 ### Version update Summary
 
+1.2.2 Replaced all the Arduino files into a folder, and commented on Servo.ino
+
 1.2.1 Adding Servo file and updating README.md
 
 1.1.5 Added link for course description
@@ -55,4 +57,4 @@ The Repository is maintained by: Antonio Kim
 
 Please see [Course Description](https://www.sfu.ca/students/calendar/2018/spring/courses/ensc/100.html) For more information.
 
-Last updated: November 25th, 2017
+Last updated: November 26th, 2017
