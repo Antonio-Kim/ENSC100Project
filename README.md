@@ -32,6 +32,7 @@ The following Repository consists of:
     <li> OneWire.zip </li> Also obtained from website reference above
     <li> Temperature.ino </li> Arduino file which displays the LED Green when two temperature sensors are 40 degrees celsius
          or above. Else, the LED displays Red.
+    <li> Arduino.ino</li> Controls the angle of the servo motor, which controls the valve's water flow
     <li> README.md </li> The summary is written in Markdown langauge
 </ul>
 
