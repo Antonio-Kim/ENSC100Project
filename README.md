@@ -18,7 +18,7 @@ Team Members:
 <li>Jehaan Jacob Joseph</li>
 <li>Nathan Bays Zavaglia</li>
 <li>Takunda Lester Mwinjilo</li>
-<li>Owen Kin Sheuk Cheuk</li>
+<li>Owen Kin Shek Cheuk</li>
 </ul>
 
 Description:
