@@ -2,7 +2,7 @@
 
 ## Fall 2017
 
-### Version 1.2.2
+### Version 2.0.0
 
 #### Group: Iota
 
@@ -38,6 +38,9 @@ The following Repository consists of:
 
 ### Version update Summary
 
+2.0.0 Removed Servo file, included the Servo into Temperature.ino, and tested to ensure the Arduino reads and rotates
+      the servo when both temperatures read over 28 degrees celsius.
+
 1.2.2 Replaced all the Arduino files into a folder, and commented on Servo.ino
 
 1.2.1 Adding Servo file and updating README.md
@@ -58,4 +61,4 @@ The Repository is maintained by: Antonio Kim
 
 Please see [Course Description](https://www.sfu.ca/students/calendar/2018/spring/courses/ensc/100.html) For more information.
 
-Last updated: November 26th, 2017
+Last updated: December 3rd, 2017
